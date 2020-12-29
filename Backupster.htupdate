@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HaltroyUpdate>
+  <AppName>Backupster</AppName>
+  <AppVersion>0.0.1.0</AppVersion>
+  <AppVersionNo>1</AppVersionNo>
+  <MinimumNo>0</MinimumNo>
+  <InstallNo>0</InstallNo>
+  <AppInstallerUrl>http://bit.ly/BackupsterSetup</AppInstallerUrl>
+  <Architectures>
+    <Architecture Type="amd64" VersionNo="1" Upgrade="https://github.com/Haltroy/Backupster/releases/download/[VERSION]/x64-U.zip" FullUpgrade="https://github.com/Haltroy/Backupster/releases/download/[VERSION]/x64-F.zip" />
+    <Architecture Type="i86" VersionNo="1" Upgrade="https://github.com/Haltroy/Backupster/releases/download/[VERSION]/x86-U.zip" FullUpgrade="https://github.com/Haltroy/Backupster/releases/download/[VERSION]/x86-F.zip" />
+  </Architectures>
+</HaltroyUpdate>
